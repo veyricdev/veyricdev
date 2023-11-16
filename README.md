@@ -5,22 +5,22 @@
 
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/avnendv" target="blank">
+  <a href="https://facebook.com/avnendv" target="blank" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="avnendv-facebook" />
   </a>
-  <!-- <a href="https://www.youtube.com/c/avnendv" target="blank">
+  <!-- <a href="https://www.youtube.com/c/avnendv" target="blank" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="avnendv-youtube" />
   </a> -->
-  <a href="https://www.linkedin.com/in/avnendv" target="blank">
+  <a href="https://www.linkedin.com/in/avnendv" target="blank" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="avnendv-linkedin" />
   </a>
-  <a href="https://instagram.com/avnendv" target="blank">
+  <a href="https://instagram.com/avnendv" target="blank" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="50" height="50" alt="avnendv-instagram" />
   </a>
-  <a href="https://discord.gg/avnendv" target="blank">
+  <a href="https://discord.gg/avnendv" target="blank" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="avnendv-instagram" />
   </a>
-  <a href="mailto:viet.nd.avnendv@gmail.com" target="top">
+  <a href="mailto:viet.nd.avnendv@gmail.com" target="top" style="color: transparent">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="50" height="50" alt="avnendv-email" />
   </a>
 </div>
