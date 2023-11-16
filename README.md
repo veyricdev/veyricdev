@@ -1,11 +1,35 @@
-<h1 align="center">Hi 👋, I'm Viet Nguyen</h1>
-<h3 align="center">As a web developer from Vietnamese</h3>
+[<img align='right' src="images/nerd2.gif" width="300" alt="giphy">](https://avnendv.id.vn)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=avnendv&label=Profile%20views&color=0e75b6&style=flat" alt="avnendv" /> </p>
+<h1 align="center">Hi 👋, I'm Viet Nguyen</h1>
+<h2 align="center">As a web developer from Vietnamese</h2>
+
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://facebook.com/avnendv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="avnendv-facebook" />
+  </a>
+  <!-- <a href="https://www.youtube.com/c/avnendv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="avnendv-youtube" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/avnendv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="avnendv-linkedin" />
+  </a>
+  <a href="https://instagram.com/avnendv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="50" height="50" alt="avnendv-instagram" />
+  </a>
+  <a href="https://discord.gg/avnendv" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="avnendv-instagram" />
+  </a>
+  <a href="mailto:viet.nd.avnendv@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="50" height="50" alt="avnendv-email" />
+  </a>
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br>
+<h2 align="center">👩‍💻  About Me</h2>
+<br>
 
 ###
 
@@ -21,18 +45,13 @@
 
 - ⚡ Fun fact **I think I am ...**
 
-<h3 align="left">📫 Connect with me:</h3>
+###
 
-<p align="left">
-<a href="https://linkedin.com/in/avnendv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avnendv" height="30" width="40" /></a>
-<a href="https://fb.com/avnendv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avnendv" height="30" width="40" /></a>
-<a href="https://instagram.com/avnendv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avnendv" height="30" width="40" /></a>
-<a href="https://discord.gg/avnendv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="avnendv" height="30" width="40" /></a>
-</p>
+<br>
+<h2 align="center">🛠 Languages and Tools:</h2>
+<br>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -108,20 +127,37 @@
 
 ###
 
-<h3 align="left">📄 Other Info :</h3>
+<br>
+<h2 align="center">📄 Other Info :</h2>
+<br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align=center>
+  <a href="#" title="avnendv">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnendv&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="avnendv">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=avnendv&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avnendv&show_icons=true&locale=en&layout=compact" alt="avnendv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avnendv&show_icons=true&locale=en" alt="avnendv" /></p>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
+<br>
+<h2 align="center">🔥 My Stats :</h2>
+<br>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avnendv&" alt="avnendv" />
+</div>
+
+###
+
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<!-- https://github.com/shravan20/github-readme-quotes -->
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
