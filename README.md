@@ -8,9 +8,9 @@
   <a href="https://facebook.com/avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="avnendv-facebook" />
   </a>
-  <!-- <a href="https://www.youtube.com/c/avnendv" target="blank">
+  <a href="https://www.youtube.com/@avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="avnendv-youtube" />
-  </a> -->
+  </a>
   <a href="https://www.linkedin.com/in/avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="avnendv-linkedin" />
   </a>
@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working as **a Website Developer**
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avnendv](https://github.com/avnendv)
 
@@ -52,7 +52,6 @@
 <br>
 
 [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>](https://sass-lang.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>](https://laravel.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com) &nbsp; [<img  src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>](https://www.chartjs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>](https://gulpjs.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>](https://heroku.com) &nbsp; [<img  src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>](https://pugjs.org)
-
 
 ###
 
