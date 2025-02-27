@@ -1,35 +1,34 @@
-[<img align='right' src="images/nerd2.gif" width="300" alt="giphy">](https://avnendv.id.vn)
+[<img align='right' src="images/nerd2.gif" width="300" alt="giphy">](https://github.com/veyricdev)
 
-<h1 align="center">Hi 👋, I'm Viet Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Veyric Dev</h1>
 <h2 align="center">As a web developer from Vietnamese</h2>
 
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="avnendv-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="veyricdev facebook" />
   </a>
   <a href="https://www.youtube.com/@avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="avnendv-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="veyricdev youtube" />
   </a>
   <a href="https://www.linkedin.com/in/avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="avnendv-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="veyricdev linkedin" />
   </a>
   <a href="https://instagram.com/avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="50" height="50" alt="avnendv-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="50" height="50" alt="veyricdev instagram" />
   </a>
   <a href="https://discord.gg/avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="avnendv-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="veyricdev instagram" />
   </a>
-  <a href="mailto:viet.nd.avnendv@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="50" height="50" alt="avnendv-email" />
+  <a href="mailto:vietnd.veyricdev@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="50" height="50" alt="veyricdev email" />
   </a>
 </div>
 
-###
+<br/>
+<br/>
 
-<br>
-<h2 align="center">👩‍💻  About Me</h2>
-<br>
+# 👩‍💻 About Me
 
 ###
 
@@ -37,55 +36,112 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/avnendv](https://github.com/avnendv)
+- 👨‍💻 All of my projects are available at [https://github.com/veyricdev](https://github.com/veyricdev)
 
 - 💬 Ask me about **ReactJs, VueJs, NodeJs**
 
-- 📫 How to reach me **viet.nd.avnendv@gmail.com**
+- 📫 How to reach me **vietnd.veyricdev@gmail.com**
 
-- ⚡ Fun fact **I think I am ...**
-
-###
-
-<br>
-<h2 align="center">🛠 Languages and Tools:</h2>
-<br>
-
-[<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>](https://www.php.net) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>](https://sass-lang.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>](https://laravel.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>](https://www.photoshop.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>](https://getbootstrap.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com) &nbsp; [<img  src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>](https://www.chartjs.org) &nbsp; [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>](https://gulpjs.com) &nbsp; [<img  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>](https://heroku.com) &nbsp; [<img  src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>](https://pugjs.org)
+- ⚡ Fun fact **I am always ready to learn new knowledge and update my own understanding.**
 
 ###
 
-<br>
-<h2 align="center">📄 Other Info :</h2>
-<br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align=center>
-  <a href="#" title="avnendv">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnendv&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="avnendv">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=avnendv&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+# 💻 Tech Stack:
 
-###
+#### Languages
 
-<br>
-<h2 align="center">🔥 My Stats :</h2>
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Php](https://img.shields.io/badge/-Php-000?style=for-the-badge&logo=php)
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avnendv&" alt="avnendv" />
-</div>
+#### JS Framework/Library
 
-###
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
+![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
+![Jquery](https://img.shields.io/badge/-Jquery-000?style=for-the-badge&logo=Jquery)
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="center">
+#### CSS Framework/Library/Pre-processors
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Unocss](https://img.shields.io/badge/-Unocss-000?style=for-the-badge&logo=unocss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![Radix UI](https://img.shields.io/badge/radix%20ui-000?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-</div>
+#### Database/State
+
+![Mysql](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/-Postgres-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+#### Backend
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel)
+
+#### Web Hosting
+
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+
+#### CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-000?style=for-the-badge&logo=gitlab)
+
+#### Package Manager
+
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=for-the-badge&logo=gitlab)
+
+#### Work tool
+
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=Gulp)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack)
+
+# 📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=veyricdev&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=veyricdev&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=veyricdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=veyricdev&icon=0&color=1)](https://visitcount.itsvg.in)
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+<p align="center">
+<img src="https://github.com/veyricdev/veyricdev/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+[![](https://visitcountpro.netlify.app/api?id=veyricdev&pretty=true)](https://visitcount.itsvg.in)
+
+<!-- ## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/veyricdev) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/veyricdev) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/veyricdev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/veyricdev) -->
