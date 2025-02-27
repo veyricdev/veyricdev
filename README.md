@@ -5,7 +5,7 @@
 
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/avnendv" target="blank">
+  <a href="https://facebook.com/veyric.n" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" width="50" height="50" alt="veyricdev facebook" />
   </a>
   <a href="https://www.youtube.com/@avnendv" target="blank">
@@ -14,10 +14,7 @@
   <a href="https://www.linkedin.com/in/avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="veyricdev linkedin" />
   </a>
-  <a href="https://instagram.com/avnendv" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" width="50" height="50" alt="veyricdev instagram" />
-  </a>
-  <a href="https://discord.gg/avnendv" target="blank">
+  <a href="https://discord.gg/veyricdev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="veyricdev instagram" />
   </a>
   <a href="mailto:vietnd.veyricdev@gmail.com" target="top">
@@ -140,7 +137,7 @@
 <img src="https://github.com/veyricdev/veyricdev/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcountpro.netlify.app/api?id=veyricdev&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=veyricdev&pretty=true)](https://github.com/veyricdev)
 
 <!-- ## 💰 You can help me by Donating
 
