@@ -1,6 +1,6 @@
 [<img align='right' src="images/nerd2.gif" width="300" alt="giphy">](https://github.com/veyricdev)
 
-<h1 align="center">Hi 👋, I'm Veyric Dev</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Duc Viet. My nickname is Veyric Dev.</h1>
 <h2 align="center">As a web developer from Vietnamese</h2>
 
 <!-- https://icons8.com -->
@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="veyricdev linkedin" />
   </a>
-  <a href="https://discord.gg/veyricdev" target="blank">
+  <a href="https://discordapp.com/users/1188702707935100980/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="50" height="50" alt="veyricdev instagram" />
   </a>
-  <a href="mailto:vietnd.veyricdev@gmail.com" target="top">
+  <a href="mailto:vietnd.veyric@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" width="50" height="50" alt="veyricdev email" />
   </a>
 </div>
@@ -35,9 +35,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/veyricdev](https://github.com/veyricdev)
 
-- 💬 Ask me about **ReactJs, VueJs, NodeJs**
+- 💬 Ask me about **ReactJs, NextJs, VueJs, NodeJs**
 
-- 📫 How to reach me **vietnd.veyricdev@gmail.com**
+- 📫 How to reach me **vietnd.veyric@gmail.com**
 
 - ⚡ Fun fact **I am always ready to learn new knowledge and update my own understanding.**
 
