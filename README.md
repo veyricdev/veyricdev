@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/@avnendv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" width="50" height="50" alt="veyricdev youtube" />
   </a>
-  <a href="www.linkedin.com/in/veyric" target="blank">
+  <a href="https://www.linkedin.com/in/veyric" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="50" height="50" alt="veyricdev linkedin" />
   </a>
   <a href="https://discordapp.com/users/1188702707935100980/" target="blank">
